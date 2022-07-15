@@ -24,6 +24,7 @@ CSAT Was also calculated for Dim In-flight services and Dim Airport services;
 Where Number of satisfied customers= Calculate(Count(Dim In-flight [ID], Dim In-flight services[response]>3)
 * Airport rating= ( Number of satisfied customers/ Dim Airport services[count])
 Where Number of satisfied customers= Calculate(count(Dim Airport [ID], Dim Airport services[response]>3).
+
 ![DASHBOARD](https://github.com/DeborahAkinyeye/DeborahAkinyeye-2.github.io/blob/main/DASHBOARD.JPG)
 # Results
 * From the analysis, a total of 129,880 people filled the survey
