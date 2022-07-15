@@ -36,7 +36,7 @@ Where Number of satisfied customers= Calculate(count(Dim Airport [ID], Dim Airpo
 * Departure and arrival time convenience had a poor rating of 5.14%, Online boarding 2.37% and Ease of booking 4.37%
 * The Wi-fi service had a poor rating of 3.02% and the leg room service had an unsatisfactory rating of 9.93%.
 # Conclusion
-The purpose of CSAT surveys is to measure customers happiness with an organisation service. The only factor that makes one airline significantly different from the other is the quality of customer service( in-flight service and Airport service)
+The purpose of CSAT surveys is to measure customers happiness with an organisation performance. The only factor that makes one airline significantly different from the other is the quality of customer service( in-flight service and Airport service)
 The organisation should address the factors that influences the dissatisfaction from the customers. The "Recommendations" are included on the DASHBOARD.
 
 
