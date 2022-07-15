@@ -6,7 +6,7 @@ The documentation includes;
    * Goal Of The Analysis
    * Data Transformation & Modelling
    * Power Pivot
-   * Result
+   * Results
    * Conclusions
 # Goal Of The Analysis
 The aim of the analysis is to draw insights from the raw data provided, by evaluating the customers satisfaction level with the services administered by the organisation
