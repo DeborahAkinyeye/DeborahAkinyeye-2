@@ -15,7 +15,9 @@ Data was collected from MavenAnalytics,it contains responses from customers.The 
  * Fact table: It contains all responses provided by the clients
  * Dim Flight Delay: It contains responses on Depature delay and Arrival delay.
  * Dim In-flight services: It contains responses on questions related to services offered on the airplane.
- * Dim Airport services: It contains responses on questions related to services administered in the airport. 
+ * Dim Airport services: It contains responses on questions related to services administered in the airport.
+ ![DATA MODEL](https://github.com/DeborahAkinyeye/DeborahAkinyeye-2.github.io/blob/main/Data%20modelling%20for%20maven.JPG)
+ 
  # Power Pivot
 The overall customer satisfaction score (CSAT) was calculated using (Number of satisfied customers/Number of survey responses)*100
 
